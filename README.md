@@ -1,4 +1,10 @@
+
 What I Learned:
+
+Launched my first live website using Amazon S3
+URL: http://kadalsmart.s3-website.eu-north-1.amazonaws.com
+
+
 	•	What HTML is and how to create a basic webpage
 	•	How a static website works
 	•	How to use S3 to host public content
